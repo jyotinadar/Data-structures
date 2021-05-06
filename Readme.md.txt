@@ -1,1 +1,1 @@
-This repository contains sample condes implementing data structures
+This repository contains sample codes implementing data structures
